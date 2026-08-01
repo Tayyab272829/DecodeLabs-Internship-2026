@@ -8,7 +8,7 @@ Weekly projects and solutions from my Data Analytics Internship at DecodeLabs (B
 Cleaned a raw, messy e-commerce dataset by handling missing values, removing duplicate 
 records, and standardizing inconsistent formats (dates, city names, numeric precision).
 
-**Tools used:** Excel (formula-based cleaning + conditional formatting), Python (Pandas)
+**Tools used:** Excel (formula-based cleaning + conditional formatting)
 
 **Results:**
 - 0% duplicate IDs
